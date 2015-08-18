@@ -6,7 +6,7 @@
     "Łukasz Pawełczak <lukaspawelczak@gmail.com>"
   ],
   "main": [
-    "dist/jquery.easy-autocomplete.js"
+    "dist/jquery.easy-autocomplete.js",
     "dist/easy-autocomplete.css"
     ],
   "license": "MIT",
